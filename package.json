@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Brainfuse/cordova-plugin-local-notifications.git#ios10"
+    "url": "git+https://github.com/Brainfuse/cordova-plugin-local-notifications.git"
   },
   "keywords": [
     "appplant",
